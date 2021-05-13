@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.2459c107.chunk.css",
-    "main.js": "/static/js/main.17cec8fc.chunk.js",
-    "main.js.map": "/static/js/main.17cec8fc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a219234d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a219234d.js.map",
-    "static/js/2.cbb70ce0.chunk.js": "/static/js/2.cbb70ce0.chunk.js",
-    "static/js/2.cbb70ce0.chunk.js.map": "/static/js/2.cbb70ce0.chunk.js.map",
-    "static/js/3.ec29b528.chunk.js": "/static/js/3.ec29b528.chunk.js",
-    "static/js/3.ec29b528.chunk.js.map": "/static/js/3.ec29b528.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2459c107.chunk.css.map": "/static/css/main.2459c107.chunk.css.map",
-    "static/js/2.cbb70ce0.chunk.js.LICENSE.txt": "/static/js/2.cbb70ce0.chunk.js.LICENSE.txt",
-    "static/media/cv.jpg": "/static/media/cv.0a3bbb38.jpg",
-    "static/media/mf.d1a7418c.jpg": "/static/media/mf.d1a7418c.jpg",
-    "static/media/PortFolio.css": "/static/media/wallhaven-288970-2.62720522.jpg",
-    "static/media/Navigation.css": "/static/media/wallhaven-653268-2.2c50fb14.jpg"
+    "main.css": "/me/static/css/main.e1920a88.chunk.css",
+    "main.js": "/me/static/js/main.0e4302af.chunk.js",
+    "main.js.map": "/me/static/js/main.0e4302af.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.a4a31f2d.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.a4a31f2d.js.map",
+    "static/js/2.e73995bb.chunk.js": "/me/static/js/2.e73995bb.chunk.js",
+    "static/js/2.e73995bb.chunk.js.map": "/me/static/js/2.e73995bb.chunk.js.map",
+    "static/js/3.e1664177.chunk.js": "/me/static/js/3.e1664177.chunk.js",
+    "static/js/3.e1664177.chunk.js.map": "/me/static/js/3.e1664177.chunk.js.map",
+    "index.html": "/me/index.html",
+    "static/css/main.e1920a88.chunk.css.map": "/me/static/css/main.e1920a88.chunk.css.map",
+    "static/js/2.e73995bb.chunk.js.LICENSE.txt": "/me/static/js/2.e73995bb.chunk.js.LICENSE.txt",
+    "static/media/cv.6a6a8a33.pdf": "/me/static/media/cv.6a6a8a33.pdf",
+    "static/media/mf.d1a7418c.jpg": "/me/static/media/mf.d1a7418c.jpg",
+    "static/media/PortFolio.css": "/me/static/media/wallhaven-288970-2.62720522.jpg",
+    "static/media/Navigation.css": "/me/static/media/wallhaven-653268-2.2c50fb14.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a219234d.js",
-    "static/js/2.cbb70ce0.chunk.js",
-    "static/css/main.2459c107.chunk.css",
-    "static/js/main.17cec8fc.chunk.js"
+    "static/js/runtime-main.a4a31f2d.js",
+    "static/js/2.e73995bb.chunk.js",
+    "static/css/main.e1920a88.chunk.css",
+    "static/js/main.0e4302af.chunk.js"
   ]
 }

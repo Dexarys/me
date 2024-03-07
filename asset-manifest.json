@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.9f85c77c.chunk.css",
-    "main.js": "/me/static/js/main.69a1694b.chunk.js",
-    "main.js.map": "/me/static/js/main.69a1694b.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.daae0cad.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.daae0cad.js.map",
-    "static/js/2.08e88c39.chunk.js": "/me/static/js/2.08e88c39.chunk.js",
-    "static/js/2.08e88c39.chunk.js.map": "/me/static/js/2.08e88c39.chunk.js.map",
-    "static/js/3.6a1cfaeb.chunk.js": "/me/static/js/3.6a1cfaeb.chunk.js",
-    "static/js/3.6a1cfaeb.chunk.js.map": "/me/static/js/3.6a1cfaeb.chunk.js.map",
+    "main.css": "/me/static/css/main.2b2fbaa4.chunk.css",
+    "main.js": "/me/static/js/main.8d3aac53.chunk.js",
+    "main.js.map": "/me/static/js/main.8d3aac53.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.354f9166.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.354f9166.js.map",
+    "static/js/2.6fb03adc.chunk.js": "/me/static/js/2.6fb03adc.chunk.js",
+    "static/js/2.6fb03adc.chunk.js.map": "/me/static/js/2.6fb03adc.chunk.js.map",
+    "static/js/3.1eda1eaa.chunk.js": "/me/static/js/3.1eda1eaa.chunk.js",
+    "static/js/3.1eda1eaa.chunk.js.map": "/me/static/js/3.1eda1eaa.chunk.js.map",
     "index.html": "/me/index.html",
-    "static/css/main.9f85c77c.chunk.css.map": "/me/static/css/main.9f85c77c.chunk.css.map",
-    "static/js/2.08e88c39.chunk.js.LICENSE.txt": "/me/static/js/2.08e88c39.chunk.js.LICENSE.txt",
-    "static/media/cv.6a6a8a33.pdf": "/me/static/media/cv.6a6a8a33.pdf",
+    "static/css/main.2b2fbaa4.chunk.css.map": "/me/static/css/main.2b2fbaa4.chunk.css.map",
+    "static/js/2.6fb03adc.chunk.js.LICENSE.txt": "/me/static/js/2.6fb03adc.chunk.js.LICENSE.txt",
+    "static/media/cv.194b0f45.pdf": "/me/static/media/cv.194b0f45.pdf",
     "static/media/mf.d1a7418c.jpg": "/me/static/media/mf.d1a7418c.jpg",
     "static/media/PortFolio.css": "/me/static/media/wallhaven-288970-2.62720522.jpg",
     "static/media/Navigation.css": "/me/static/media/wallhaven-653268-2.2c50fb14.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.daae0cad.js",
-    "static/js/2.08e88c39.chunk.js",
-    "static/css/main.9f85c77c.chunk.css",
-    "static/js/main.69a1694b.chunk.js"
+    "static/js/runtime-main.354f9166.js",
+    "static/js/2.6fb03adc.chunk.js",
+    "static/css/main.2b2fbaa4.chunk.css",
+    "static/js/main.8d3aac53.chunk.js"
   ]
 }
